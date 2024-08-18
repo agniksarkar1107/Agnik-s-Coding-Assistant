@@ -1,29 +1,28 @@
-# Codify- Agnik's Coding Assistant
+# Codify
 
-Agnik's Coding Assistant is a versatile tool designed to help developers streamline their coding process. This project aims to provide a user-friendly interface and a set of features that enhance productivity and efficiency in coding tasks.
+Codify is a powerful coding assistant designed to enhance your programming experience by providing intelligent code suggestions, snippets, and documentation references. Whether you're a beginner or an experienced developer, Codify aims to streamline your coding workflow and improve productivity.
 
-It runs locally without the usage of internet. The backend runs on ollama's codellama 7B model and frontend runs on Gradio.
+It's backend runs on the robust codellama model locally through ollama and the frontend interface runs with the help of Gradio,a powerful python library.
 
 ## Features
 
-- **Code Snippets**: Quickly access and insert commonly used code snippets.
-- **Syntax Highlighting**: Enjoy improved readability with syntax highlighting for various programming languages.
-- **Error Detection**: Identify and fix errors in your code with built-in error detection capabilities.
-- **Documentation Support**: Easily reference documentation for different programming languages and libraries.
-- **Customizable Settings**: Tailor the assistant to your preferences with customizable settings.
+- **Smart Code Suggestions**: Get real-time code suggestions as you type, helping you write code faster and with fewer errors.
+- **Code Snippets**: Access a library of reusable code snippets for common programming tasks.
+- **Documentation Lookup**: Quickly reference documentation for various programming languages and frameworks without leaving your coding environment.
+- **Customizable Interface**: Tailor the appearance and functionality of Codify to suit your personal preferences.
 
 ## Installation
 
-To get started with Agnik's Coding Assistant, follow these steps:
+To install Codify, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/agniksarkar1107/Agnik-s-Coding-Assistant.git
+   git clone https://github.com/agniksarkar1107/Codify.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Agnik-s-Coding-Assistant
+   cd Codify
    ```
 
 3. Install the required dependencies:
@@ -31,33 +30,34 @@ To get started with Agnik's Coding Assistant, follow these steps:
    npm install
    ```
 
-4. Launch the application:
+4. Start the application:
    ```bash
    npm start
    ```
 
 ## Usage
 
-Once the application is running, you can:
+After launching Codify, you can:
 
-- Access the code snippets section to find and use pre-defined snippets.
-- Use the syntax highlighting feature while coding.
-- Enable error detection to receive real-time feedback on your code.
-- Refer to the documentation section for guidance on various programming languages.
+- Start typing your code to receive smart suggestions.
+- Use the snippets feature to insert common code patterns quickly.
+- Access documentation by searching for specific functions or libraries.
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
+Contributions are highly encouraged! If you have ideas for new features or improvements, please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+## Contact
 
+For questions, feedback, or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
-Feel free to customize this README file further to fit your project's specific details and requirements!
+Feel free to modify this README to better reflect the specifics of your project and any additional features you may want to highlight!
 
 Citations:
-[1] https://github.com/agniksarkar1107/Agnik-s-Coding-Assistant
+[1] https://github.com/agniksarkar1107/Codify
